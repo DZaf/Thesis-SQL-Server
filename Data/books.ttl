@@ -4016,4 +4016,4 @@ _:N80e1393f524a476bac3c6e36d7b2d4d4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#
 <https://thesis-server-icsd14052-54.herokuapp.com/ns/webAPIs/Amazon-Route-53> <https://thesis-server-icsd14052-54.herokuapp.com/ontologies#hasProvider> <https://thesis-server-icsd14052-54.herokuapp.com/ns/providers/amazonaws.com> .
 <https://thesis-server-icsd14052-54.herokuapp.com/ns/tags/webdev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://thesis-server-icsd14052-54.herokuapp.com/ontologies#Tags> .
 <https://thesis-server-icsd14052-54.herokuapp.com/ns/tags/short-urls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://thesis-server-icsd14052-54.herokuapp.com/ontologies#Tags> .
-<https://thesis-server-icsd14052-54.herokuapp.com/ns/tags/energy> <https://thesis-server-icsd14052-54.herokuapp.com/ontologies#title> "energy" .
+<https://thesis-server-icsd14052-54.herokuapp.com/ns/tags/energy> <https://thesis-server-icsd14052-54.herokuapp.com/ontologies#title> "energy" . 
