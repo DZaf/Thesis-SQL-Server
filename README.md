@@ -1,3 +1,13 @@
-# Fuseki-Heroku
+# Thesis-SQL-Server
 
-An example of Fuseki running on Heroku.
+##### Δημιουργηθηκε το 2019
+Το Project αυτό δημιουργήθηκε το 2019 και αποτελεί τον SQL Server του συστήματος που αναπτύχθηκε κατά την εκπόνηση διπλωματικής εργασίας του Τμήματος Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων του Πανεπηστημίου Αιγαίου με τίτλο Δημιουργία πρότυπου ευφυούς συστήματος για την υποστήριξη ανάπτυξης δια-λειτουργικού λογισμικού.
+
+# Γνώσεις που αποκτήθηκαν 
+  - Η άριστη χρήση των SQL Queries
+  - Η άριστη γνώση των schemantic web και linked data
+  
+# Co-Creators
+  -[Γεώργιος Ζώγας](https://github.com/gzogas)
+
+# [Για περισσότερες λεπτομέριες πατήστε εδώ](https://drive.google.com/file/d/1d_mVLOCvXuduwAe4gcMJ79vhOKdLjOih/view?usp=sharing)
